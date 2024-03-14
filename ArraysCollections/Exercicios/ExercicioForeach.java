@@ -1,4 +1,4 @@
-package ArraysCollections.Exercicios;
+package Estudo.ArraysCollections.Exercicios;
 
 import java.util.Arrays;
 
